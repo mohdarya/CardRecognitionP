@@ -1,0 +1,4 @@
+*/__pycache__/*
+getCards/cardNames.txt
+.idea/*
+venv/*
